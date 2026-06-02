@@ -28,13 +28,14 @@ Follow these steps to get your local development server up and running.
 
 ### 1. Prerequisites
 Make sure you have **Node.js** and **npm** installed on your machine. You can check by running:
+```bash
 node -v
 npm -v
 
 ---
-
+```
 ### 2. Setup the Project
 If you haven't already set up a React app, create one using Create React App:
-
+```bash
 npx create-react-app speedometer-app
 cd speedometer-app
