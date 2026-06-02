@@ -17,7 +17,7 @@ The Speedometer application is a classic state-management project built with Rea
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js (Class Components)
+* **Frontend:**React.js (Class Components)
 * **Styling:** CSS3
 
 ---
@@ -28,11 +28,12 @@ Follow these steps to get your local development server up and running.
 
 ### 1. Prerequisites
 Make sure you have **Node.js** and **npm** installed on your machine. You can check by running:
-```bash
 node -v
 npm -v
 
-2. Setup the Project
+---
+
+### 2. Setup the Project
 If you haven't already set up a React app, create one using Create React App:
 
 npx create-react-app speedometer-app
