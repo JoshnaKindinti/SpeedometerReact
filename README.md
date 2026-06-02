@@ -32,7 +32,7 @@ Make sure you have **Node.js** and **npm** installed on your machine. You can ch
 node -v
 npm -v
 
----
+
 ```
 ### 2. Setup the Project
 If you haven't already set up a React app, create one using Create React App:
